@@ -33,3 +33,5 @@ print(trim(s4))
 print(trim(s5))
 print(trim(s6))
 print(trim(s7))
+
+
